@@ -17,4 +17,4 @@ O objetivo é demonstrar a mentalidade de um atacante para construir defesas rob
 * **Simulação de Adversários:** Executar playbooks de ataque controlados para testar a capacidade de detecção do SOC e a resiliência das políticas de GPO.
 * **Resposta a Incidentes e Remediação:** Desenvolver guias práticos para isolar contas comprometidas, remover persistência e aplicar correções definitivas após um compromisso.
 
----
+
